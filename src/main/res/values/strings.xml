@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoActionBar</string>
+    <string name="no_actionbar">No Actionbar!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_color_change">Change Toolbar Menu</string>
+    <string name="open_apps">Open Apps</string>
+    <string name="bike">Bike</string>
+    <string name="text_blank">Blank Navigation Drawer</string>
+</resources>

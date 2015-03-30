@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/open_apps"
+        android:title="@string/open_apps"
+        android:icon="@mipmap/ic_apps_white"
+        android:orderInCategory="200"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/bike"
+        android:title="@string/bike"
+        android:icon="@mipmap/ic_directions_bike"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+</menu>
